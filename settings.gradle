@@ -1,0 +1,6 @@
+rootProject.name = 'music-streaming-service'
+
+include 'music-metadata-service'
+include 'playlist-service'
+include 'playback-service'
+include 'search-service'
